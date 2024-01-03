@@ -4,6 +4,7 @@ import pandas as pd
 import nltk
 nltk.download('wordnet')
 nltk.download('vader_lexicon')
+nltk.download("stopwords")
 from nltk.corpus import stopwords
 # import pymysql
 # import sqlalchemy as alch
