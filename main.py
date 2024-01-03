@@ -30,7 +30,7 @@ st.markdown(main_content, unsafe_allow_html=True) # The web cannot be embeded in
 explanation_content = """In 2017, the webpage Queeringthemap.com was created for sharing stories and experiences lived by queer people in order to protect and keep their voices. 
 The information of the page arises this question: \n
 '*How does race, gender, sexuality, citizenship, ability, and class affect the ways in which we relate to, move through, and create space?*' \n
-This page shows some of the results of my final project in Ironhack Data Analysis Bootcamp, trying to give some insights in the process of answering this question, respecting the anonimity of the community involved, through the analysis of the discourse of the shared experiences and it's relationship with the physical space defined by each country."""
+This page shows some of the results of my final project in Ironhack Data Analysis Bootcamp, trying to give some insights in the process of answering this question, respecting the anonimity of the community involved, through the analysis of the discourse of the shared experiences and its relationship with the physical space defined by each country."""
 st.markdown(explanation_content, unsafe_allow_html=True)
  
 map_image = "images/map_frontpage.png"
